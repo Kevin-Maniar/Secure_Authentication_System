@@ -1,14 +1,7 @@
 # Secure_authentication_system
 A secure login system with JWT authentication and encryption.
 
-# Secure Authentication System
-Folder Structure
-Secure_Authentication_System/
-│
-├─ app.py
-├─ User_model.py
-├─ requirements.txt
-└─ README.md    
+# Secure Authentication System  
    - Project Description
 
    - A secure authentication system built with Python, Flask, PostgreSQL, and JWT.
