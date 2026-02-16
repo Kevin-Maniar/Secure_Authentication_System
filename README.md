@@ -129,7 +129,7 @@ Response:
 Response:
 
 {
-  "message": "Welcome Kevin! This is your dashboard."
+  "message": "Welcome Admin! This is your dashboard."
 }
 
 
